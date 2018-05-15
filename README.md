@@ -1,4 +1,4 @@
-# Hidden Markov Model Part of Speech tagger - udacity project
+# Hidden Markov Model Part of Speech (POS) tagger - Udacity project
 
 ## Introduction
 
