@@ -1,4 +1,4 @@
-# Hidden Markov Model Part of Speech tagger - Udacity project
+# Hidden Markov Model Part of Speech tagger
 
 ## Introduction
 
